@@ -194,7 +194,7 @@ Students are welcome to:
 
 **Assistant Professor**
 
-Machine Learning Developer
+**AI & ML Engineer**
 
 Artificial Intelligence • Machine Learning • Deep Learning • Data Science
 
