@@ -2,15 +2,19 @@
 
 <div align="center">
 
-![Course](https://img.shields.io/badge/Course-Introduction%20to%20Generative%20AI-blue)
-![Program](https://img.shields.io/badge/Program-BCA-success)
-![Semester](https://img.shields.io/badge/Semester-VII-orange)
-![Language](https://img.shields.io/badge/Language-Python-yellow?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Course](https://img.shields.io/badge/Course-Introduction%20to%20Generative%20AI-4F46E5?style=for-the-badge)
+![Program](https://img.shields.io/badge/Program-BCA-16A34A?style=for-the-badge)
+![Semester](https://img.shields.io/badge/Semester-VII-F59E0B?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
 
-## Bachelor of Computer Application (BCA) - Semester VII
+# Bachelor of Computer Application (BCA)
+## Semester VII
 
-**Silver Oak University**
+### Silver Oak University
+
+</div>
 
 ---
 
@@ -24,7 +28,7 @@
 | **Semester** | VII |
 | **Faculty** | Smit Tarapara |
 | **Programming Language** | Python |
-| **Development Environment** | Jupyter Notebook / Google Colab |
+| **Development Platform** | Jupyter Notebook / Google Colab |
 
 ---
 
@@ -33,8 +37,30 @@
 - Understand the fundamentals of Generative AI.
 - Learn Prompt Engineering techniques.
 - Explore Large Language Models (LLMs).
-- Generate text, images, audio, video, and code using AI.
-- Understand ethical and responsible AI practices.
+- Generate Text, Images, Audio, Video, and Code using AI.
+- Understand Ethical and Responsible AI practices.
+
+---
+
+# 🎓 Course Outcomes
+
+After successful completion of this course, students will be able to:
+
+- Explain the concepts and evolution of Generative AI.
+- Apply Prompt Engineering techniques effectively.
+- Use Generative AI tools for text, image, audio, video, and code generation.
+- Understand ethical, legal, and responsible use of AI technologies.
+
+---
+
+# 📖 Syllabus Overview
+
+| Unit | Topics |
+|------|--------|
+| **Unit 1** | Introduction to Generative AI |
+| **Unit 2** | Working of Generative AI & Prompt Engineering |
+| **Unit 3** | Generative AI Tools & Applications |
+| **Unit 4** | Responsible AI & Future Trends |
 
 ---
 
@@ -55,7 +81,7 @@
 
 # 📂 Repository Structure
 
-```
+```text
 Introduction-to-Generative-AI/
 │
 ├── Practical-01/
@@ -91,68 +117,99 @@ Introduction-to-Generative-AI/
 
 ---
 
-# 🧪 List of Practicals
+# 🧪 Practical List
 
-| No. | Practical Name | Status |
-|:---:|----------------|:------:|
-| 01 | Design prompts for a customer support chatbot using different tones | ⏳ |
-| 02 | Create a role-based AI assistant prompt | ⏳ |
-| 03 | Compare short vs detailed prompts for product description generation | ⏳ |
-| 04 | Generate social media content using constrained prompts | ⏳ |
-| 05 | Perform iterative prompting for email drafting | ⏳ |
-| 06 | Handle student queries using ambiguous and clear prompts | ⏳ |
-| 07 | Demonstrate token sensitivity using resume headline optimization | ⏳ |
-| 08 | Analyze temperature settings for creative content generation | ⏳ |
-| 09 | Identify AI hallucinations using factual questions | ⏳ |
-| 10 | Verify AI-generated academic answers with trusted sources | ⏳ |
-| 11 | Generate a technical blog using Generative AI | ⏳ |
-| 12 | Convert a long article into an executive report | ⏳ |
-| 13 | Generate and refine a Resume/SOP using AI | ⏳ |
-| 14 | Create an AI-based case study | ⏳ |
-| 15 | Generate exam questions and answers using AI | ⏳ |
-| 16 | Generate AI images using prompt engineering | ⏳ |
-| 17 | Design a marketing poster using AI image tools | ⏳ |
-| 18 | Convert text into AI voice narration | ⏳ |
-| 19 | Generate a Python/Java mini project using AI | ⏳ |
-| 20 | Analyze AI bias and suggest mitigation strategies | ⏳ |
+| No. | Practical | Status |
+|:--:|-----------|:------:|
+| 01 | Customer Support Chatbot Prompt Design | ⏳ |
+| 02 | Role-Based Prompt Engineering | ⏳ |
+| 03 | Product Description Generation | ⏳ |
+| 04 | Social Media Content Generation | ⏳ |
+| 05 | Iterative Prompt Engineering | ⏳ |
+| 06 | Student Query Handling | ⏳ |
+| 07 | Token Sensitivity Analysis | ⏳ |
+| 08 | Temperature-Based Response Generation | ⏳ |
+| 09 | AI Hallucination Detection | ⏳ |
+| 10 | AI Answer Verification | ⏳ |
+| 11 | AI Technical Blog Generation | ⏳ |
+| 12 | Executive Report Generation | ⏳ |
+| 13 | Resume / SOP Generation | ⏳ |
+| 14 | AI Case Study Development | ⏳ |
+| 15 | AI-Based Question Paper Generation | ⏳ |
+| 16 | AI Image Generation | ⏳ |
+| 17 | AI Marketing Poster Design | ⏳ |
+| 18 | AI Voice Narration | ⏳ |
+| 19 | AI-Assisted Python/Java Mini Project | ⏳ |
+| 20 | AI Bias Analysis & Mitigation | ⏳ |
 
 ---
 
-# 📖 Learning Outcomes
+# 💻 System Requirements
 
-After completing this course, students will be able to:
+- Python 3.10 or above
+- Jupyter Notebook / Google Colab
+- Stable Internet Connection
+- Git
+- GitHub Account
 
-- Explain Generative AI concepts.
-- Apply prompt engineering techniques.
-- Use AI tools effectively.
-- Develop AI-assisted applications.
-- Understand ethical and responsible AI usage.
+---
+
+# ✨ Repository Features
+
+- 📚 Complete BCA Semester VII Practicals
+- 📝 Well-Documented Experiments
+- 💻 Python Source Code
+- 📓 Jupyter Notebooks
+- 📄 Practical PDFs
+- 🖼️ Output Screenshots
+- 📂 Organized Folder Structure
+- 🚀 AI Tool Demonstrations
 
 ---
 
 # 📚 Reference Books
 
-- Introduction to Generative AI – O'Reilly Media
-- Prompt Engineering for Generative AI – O'Reilly Media
-- Generative Deep Learning – O'Reilly Media
-- Hands-On Large Language Models – O'Reilly Media
+- *Introduction to Generative AI* – O'Reilly Media
+- *Prompt Engineering for Generative AI* – O'Reilly Media
+- *Generative Deep Learning* – O'Reilly Media
+- *Hands-On Large Language Models* – O'Reilly Media
 
 ---
 
-# 👨‍🏫 Faculty
+# 🤝 Contribution
 
-**Smit Tarapara**
+Students are welcome to:
 
-Assistant Professor
+- Fork this repository
+- Practice the experiments
+- Suggest improvements
+- Report issues
+- Share learning resources
+
+---
+
+# 👨‍🏫 Instructor
+
+## **Smit Tarapara**
+
+**Assistant Professor**
 
 Machine Learning Developer
 
-Artificial Intelligence • Data Science • Deep Learning
+Artificial Intelligence • Machine Learning • Deep Learning • Data Science
 
 ---
 
-# ⭐ Support
+# 📜 License
 
-If this repository helps you in learning **Generative AI**, don't forget to ⭐ Star this repository.
+This repository is developed for educational and learning purposes under the **MIT License**.
 
-Happy Learning! 🚀
+---
+
+<div align="center">
+
+## ⭐ If this repository helps you in learning, don't forget to Star it!
+
+### 🚀 Happy Learning & Keep Exploring Generative AI!
+
+</div>
